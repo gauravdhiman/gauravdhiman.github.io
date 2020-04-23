@@ -61,10 +61,16 @@ const Home = () => (
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
 
             <div class="navbar-buttons mbr-section-btn">
+             <a class="btn btn-sm btn-primary display-4" href="https://blog.gaurav-dhiman.com" target="_blank">
+                <span class="mbri-edit mbr-iconfont mbr-iconfont-btn ">
+                </span>
+                MY BLOG
+              </a>
               <a class="btn btn-sm btn-primary display-4" href="assets/files/Gaurav_Resume_2020.pdf" target="_blank">
                 <span class="mbri-save mbr-iconfont mbr-iconfont-btn ">
                 </span>
-                    Resume</a>
+                Resume
+              </a>
             </div>
           </div>
         </nav>
@@ -85,7 +91,7 @@ const Home = () => (
               with 18+ years experience&nbsp;</h3>
             <p class="mbr-text align-left pb-3 mbr-fonts-style display-5">Thanks for visiting my website. I am a software professional with extensive experience in leading initiatives and teams in web / mobile and big-data applications for industry leading companies. Feel free to explore my website and social profiles to know more about me.</p>
             <div class="mbr-section-btn align-left">
-              <a class="btn btn-md btn-primary display-4" href="https://gaurav-dhiman.com">LEARN MORE</a>
+              <a class="btn btn-md btn-primary display-4" href="https://blog.gaurav-dhiman.com" target="_blank">MY BLOG</a>
               <a class="btn btn-md btn-black-outline display-4" href="assets/files/Gaurav_Resume_2020.pdf" target="_blank">RESUME</a>
             </div>
           </div>
@@ -99,6 +105,7 @@ const Home = () => (
         </div>
       </section>
 
+      <a id="next" />
       <section class="testimonials3 cid-rUGdmmDuMx" id="testimonials3-c">
         <div class="container">
           <div class="media-container-row">
@@ -223,7 +230,7 @@ const Home = () => (
 - Hands-on with development technologies like NodeJS, ReactJS, Redux, RDBMS, NoSQL DBs, PySpark, Hadoop, Hive, HBase.<br />
 - Hands on with testing frameworks like MochaJS, ChaiJS, SinonJS, Jest, Nightwatch, Behave (python), pytest etc.<br />
 - Well versed with tools like Git, JIRA, Jenkins, Containers (Dockers), Kubernetes.<br />
-- Knowledge of Machine Learning (ML) landscape; Deep neural networks, Convolutional newral networks, Recurrent Neural networks, Re-enforcement learning.</p>
+- Knowledge of Machine Learning (ML) landscape; Deep neural networks, Convolutional neural networks, Recurrent Neural networks, Re-enforcement learning.</p>
                     </div>
                   </div>
                 </div>
