@@ -458,7 +458,8 @@ nav .mbr-section-btn {
 /*! Full-screen */
 .mbr-fullscreen .mbr-overlay {
   min-height: 100vh;
-  opacity: 0.7; background-color: rgb(255, 255, 255);
+  opacity: 0.75;
+  background-color: rgb(255, 255, 255);
 }
 
 .mbr-fullscreen {

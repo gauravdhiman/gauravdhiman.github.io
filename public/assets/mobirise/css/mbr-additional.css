@@ -1108,7 +1108,8 @@ section.lazy-placeholder:after {
 }
 .cid-rUA45ilrql .mbr-text,
 .cid-rUA45ilrql .mbr-section-btn {
-  color: #465052;
+  /* color: #465052; */
+  color: #000;
 }
 .cid-rUA45ilrql H3 {
   color: #465052;
