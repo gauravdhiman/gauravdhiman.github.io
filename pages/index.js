@@ -6,10 +6,14 @@ const Home = () => (
       <script async src="https://www.googletagmanager.com/gtag/js?id=UA-6297967-3"></script>
       <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag(){window.dataLayer.push(arguments)}
-        gtag('js', new Date());
+        {/* function gtag() {
+          window.dataLayer.push(arguments)
+        } */}
+        window.dataLayer.push(['js', new Date()])
+        window.dataLayer.push(['config', 'UA-6297967-3'])
+        {/* gtag('js', new Date());
 
-        gtag('config', 'UA-6297967-3');
+        gtag('config', 'UA-6297967-3'); */}
       </script>
 
       <meta charset="UTF-8" />
