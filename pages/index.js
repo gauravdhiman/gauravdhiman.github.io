@@ -79,7 +79,7 @@ const Home = () => (
                 </span>
                 MY BLOG
               </a>
-              <a class="btn btn-sm btn-primary display-4" href="assets/files/Gaurav_Resume_2020.pdf" target="_blank">
+              <a class="btn btn-sm btn-primary display-4" href="assets/files/resume.pdf" target="_blank">
                 <span class="mbri-save mbr-iconfont mbr-iconfont-btn ">
                 </span>
                 Resume
@@ -105,7 +105,7 @@ const Home = () => (
             <p class="mbr-text align-left pb-3 mbr-fonts-style display-5">Thanks for visiting my website. I am a software professional with extensive experience in leading initiatives and teams in web / mobile and big-data applications for industry leading companies. Feel free to explore my website and social profiles to know more about me.</p>
             <div class="mbr-section-btn align-left">
               <a class="btn btn-md btn-primary display-4" href="https://blog.gaurav-dhiman.com" target="_blank">MY BLOG</a>
-              <a class="btn btn-md btn-black-outline display-4" href="assets/files/Gaurav_Resume_2020.pdf" target="_blank">RESUME</a>
+              <a class="btn btn-md btn-black-outline display-4" href="assets/files/resume.pdf" target="_blank">RESUME</a>
             </div>
           </div>
         </div>
@@ -809,7 +809,7 @@ Phone: +1 &nbsp;(480) 494 6684 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<b
                 Links
               </h5>
               <p>
-                <a class="text-primary" href="assets/files/Gaurav_Resume_2020.pdf" target="_blank">Download my Resume</a>
+                <a class="text-primary" href="assets/files/resume.pdf" target="_blank">Download my Resume</a>
                 <br/>
                 <a class="text-primary" href="https://discussion.im" target="_blank">Discussion.im</a>
                 <br />
