@@ -140,17 +140,12 @@ const Home = () => (
       </section>
 
       <section class="progress-bars3 cid-rUGd2yeESq" id="progress-bars3-b">
-
-
-
-
-
         <div class="container">
-          <h2 class="mbr-section-title pb-3 align-center mbr-fonts-style display-2">
-            Experience Snapshot</h2>
+          <h2 class="mbr-section-title pb-3 align-center mbr-fonts-style display-2">Experience Snapshot</h2>
 
-          <h3 class="mbr-section-subtitle mbr-fonts-style display-5">Snapshot of what percent of my total experience I worked in different domains and technologies.
-        </h3>
+          <h3 class="mbr-section-subtitle mbr-fonts-style display-5">
+            Snapshot of what percent of my total experience I worked in different domains and technologies.
+          </h3>
 
           <div class="media-container-row pt-5 mt-2">
             <div class="card p-3 align-center">
@@ -208,18 +203,11 @@ const Home = () => (
                 <h4 class="card-title py-2 mbr-fonts-style display-5">Kernel Development</h4>
               </div>
             </div>
-
-
           </div>
         </div>
       </section>
 
       <section class="counters5 counters cid-rUAbaQVKMd" id="counters5-6">
-
-
-
-
-
         <div class="container pt-4 mt-2">
           <h2 class="mbr-section-title pb-3 align-center mbr-fonts-style display-2">Key Skills</h2>
 
@@ -229,9 +217,7 @@ const Home = () => (
                 <div class="card px-3 align-left col-12">
                   <div class="panel-item p-4 d-flex">
                     <div class="card-img pr-3">
-                      <h3 class="img-text d-flex align-items-center justify-content-center">
-                        1
-                                </h3>
+                      <h3 class="img-text d-flex align-items-center justify-content-center">1</h3>
                     </div>
                     <div class="card-text">
                       <h4 class="mbr-content-title mbr-bold mbr-fonts-style display-7">Technical skills</h4>
@@ -240,8 +226,8 @@ const Home = () => (
 - Building solutions on microservices and cloud architecture that are scalable using Docker and Kubernetes.<br />
 - Extensive experience with development and delivery of full-stack web and cross platform mobile applications.<br />
 - Extensive experience with big data ETL and analytics applications based on PySpark and Hadoop technologies.<br />
-- Hands-on with development technologies like NodeJS, ReactJS, Redux, RDBMS, NoSQL DBs, PySpark, Hadoop, Hive, HBase.<br />
-- Hands on with testing frameworks like MochaJS, ChaiJS, SinonJS, Jest, Nightwatch, Behave (python), pytest etc.<br />
+- Hands-on with development technologies like NodeJS, ReactJS, Redux, Python, RDBMS, NoSQL DBs, PySpark, Hadoop, Hive.<br />
+- Hands on with testing frameworks like MochaJS, ChaiJS, SinonJS, Cypress, Behave (python), pytest etc.<br />
 - Well versed with tools like Git, JIRA, Jenkins, Containers (Dockers), Kubernetes.<br />
 - Knowledge of Machine Learning (ML) landscape; Deep neural networks, Convolutional neural networks, Recurrent Neural networks, Re-enforcement learning.</p>
                     </div>
@@ -250,25 +236,18 @@ const Home = () => (
                 <div class="card px-3 align-left col-12">
                   <div class="panel-item p-4 d-flex">
                     <div class="card-img pr-3">
-                      <h3 class="img-text d-flex align-items-center justify-content-center">
-                        2
-                                </h3>
+                      <h3 class="img-text d-flex align-items-center justify-content-center">2</h3>
                     </div>
                     <div class="card-text">
                       <h4 class="mbr-content-title mbr-bold mbr-fonts-style display-7">Leadership skills</h4>
                       <p class="mbr-content-text mbr-fonts-style display-7">- Keeping abreast with latest technology trends and innovations.<br />
 - Leading initiatives for technology transformation - from old tech stack to latest tech stacks.<br />
-- Capturing business problems and leading teams to build and deliver customer focused technology solutions for the same.
-<br />
-- Aligning teams on technical achitecture across enterprise or business units to achieve larger business objectives.
-<br />
-- Managing, guiding and mentoring team members to achieve their long-term as well as short-term career goals.<br />
- - Motivating and defining clear targets for teams to</p>
+- Capturing business problems and leading teams to build and deliver customer focused technology solutions for the same.<br />
+- Aligning teams on technical achitecture across enterprise or business units to achieve larger business objectives.<br />
+- Managing, guiding and mentoring team members to achieve their long-term as well as short-term career goals.</p>
                     </div>
                   </div>
                 </div>
-
-
               </div>
             </div>
           </div>
@@ -276,16 +255,8 @@ const Home = () => (
       </section>
 
       <section class="timeline1 cid-rUGx1HugoE" id="timeline1-d">
-
-
-
-
-
         <div class="container align-center">
-          <h2 class="mbr-section-title pb-3 mbr-fonts-style display-2">
-            Professional Experience</h2>
-
-
+          <h2 class="mbr-section-title pb-3 mbr-fonts-style display-2">Professional Experience</h2>
           <div class="container timelines-container" mbri-timelines="">
             <div class="row timeline-element reverse separline">
               <div class="timeline-date-panel col-xs-12 col-md-6  align-left">
@@ -481,9 +452,6 @@ Worked as an engineer on NCR Corporation’s project for ATM management software
       </section>
 
       <section class="section-table cid-rUGKfPPCp0" id="table1-e">
-
-
-
         <div class="container container-table">
           <h2 class="mbr-section-title mbr-fonts-style align-center pb-3 display-2">
             Personal Projects &amp; Blogs</h2>
@@ -499,10 +467,6 @@ Worked as an engineer on NCR Corporation’s project for ATM management software
               <table class="table" cellspacing="0">
                 <thead>
                   <tr class="table-heads ">
-
-
-
-
                     <th class="head-item mbr-fonts-style display-7">
                       Description</th>
                     <th class="head-item mbr-fonts-style display-7">Hosted Link</th>
@@ -511,15 +475,7 @@ Worked as an engineer on NCR Corporation’s project for ATM management software
                 </thead>
 
                 <tbody>
-
-
-
-
                   <tr>
-
-
-
-
                     <td class="body-item mbr-fonts-style display-7">Built <a href="https://discussion.im" target="_blank">Discussion.im</a>, a Progressive Web App (PWA) that makes the online forums much fun to use. This app is built from scratch using <a href="https://material-ui.com/" target="_blank">MaterialUI</a> (ReactJS), <a href="https://redux.js.org/" target="_blank">Redux</a>, <a href="https://redux-orm.github.io/redux-orm/" target="_blank">Redux-ORM</a>,&nbsp;<a href="https://feathersjs.com/" target="_blank">FeathersJS</a> (Web-services) and <a href="https://nextjs.org/" target="_blank">NextJS </a>(SSR).</td>
                     <td class="body-item mbr-fonts-style display-7">
                       <a href="https://discussion.im" target="_blank">https://discussion.im&nbsp;</a>
@@ -529,10 +485,6 @@ Worked as an engineer on NCR Corporation’s project for ATM management software
                     </td>
                   </tr>
                   <tr>
-
-
-
-
                     <td class="body-item mbr-fonts-style display-7">A mobile app to push nearby offers to users, based on the user's interest and location. Users can set up the kind of offers they are interested in an app and then the app sends push notifications whenever the offer of given interest is published in a specific range of user’s location (geo-fencing). App is built using <a href="https://expo.io/" target="_blank">Expo</a> (React Native) and <a href="https://www.meteor.com/" target="_blank">MeteorJS</a>.</td>
                     <td class="body-item mbr-fonts-style display-7">-NA-</td>
                     <td class="body-item mbr-fonts-style display-7">
@@ -540,10 +492,6 @@ Worked as an engineer on NCR Corporation’s project for ATM management software
                     </td>
                   </tr>
                   <tr>
-
-
-
-
                     <td class="body-item mbr-fonts-style display-7">
                       <p>
                         <a href="https://sailsjs.com/" target="_blank">
@@ -555,10 +503,6 @@ Worked as an engineer on NCR Corporation’s project for ATM management software
                     </td>
                   </tr>
                   <tr>
-
-
-
-
                     <td class="body-item mbr-fonts-style display-7">ORM Adaptor / library written to connect <a href="https://sailsjs.com/" target="_blank">SailsJS</a> (<a href="https://nodejs.org/en/" target="_blank">NodeJS</a> framework) with <a href="https://orientdb.com/" target="_blank">OrientDB </a>(Graph based DB). Made it open-source on NPM too.</td>
                     <td class="body-item mbr-fonts-style display-7">
                       <a href="https://www.npmjs.com/package/sails-orientdb-binary" target="_blank">https://www.npmjs.com/package/sails-orientdb-binary</a>
@@ -568,10 +512,6 @@ Worked as an engineer on NCR Corporation’s project for ATM management software
                     </td>
                   </tr>
                   <tr>
-
-
-
-
                     <td class="body-item mbr-fonts-style display-7">My blog about <a href="https://www.kernel.org/" target="_blank">Linux Kernel</a> Internals that I used to maintain long back when I was working in Linux Kernel space.</td>
                     <td class="body-item mbr-fonts-style display-7">
                       <a href="http://lkdp.blogspot.com/" target="_blank">http://lkdp.blogspot.com/</a>
@@ -581,17 +521,12 @@ Worked as an engineer on NCR Corporation’s project for ATM management software
                 </tbody>
               </table>
             </div>
-            <div class="container table-info-container">
-
-            </div>
+            <div class="container table-info-container"></div>
           </div>
         </div>
       </section>
 
       <section class="mbr-section content4 cid-rUGRHTIxlI" id="content4-g">
-
-
-
         <div class="container">
           <div class="media-container-row">
             <div class="title col-12 col-md-8">
@@ -609,9 +544,6 @@ In my free time, I love to be around kids and nature. I try to be a regular hike
       </section>
 
       <section class="mbr-gallery mbr-slider-carousel cid-rUGRgoLLG2" id="gallery3-f">
-
-
-
         <div>
           <div>
             <div class="mbr-gallery-row">
@@ -773,11 +705,6 @@ In my free time, I love to be around kids and nature. I try to be a regular hike
       </section>
 
       <section class="cid-qTkAaeaxX5" id="footer1-2">
-
-
-
-
-
         <div class="container">
           <div class="media-container-row content text-white">
             <div class="col-12 col-md-3">
@@ -905,7 +832,6 @@ Phone: +1 &nbsp;(480) 494 6684 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<b
       </script>
       <script src="assets/gallery/script.js">
       </script>
-
 
     </body>
   </div>
