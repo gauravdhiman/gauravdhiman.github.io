@@ -269,7 +269,7 @@ const Home = () => (
               <div class="col-xs-12 col-md-6 align-right">
                 <div class="timeline-text-content">
                   <h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-5">
-                    Senior Engineering Manager / Principal Architect
+                    Senior Architect
                   </h4>
                   <p class="mbr-timeline-text mbr-fonts-style display-7">
                     <strong>@ Cognizant (working with American Express)</strong>
