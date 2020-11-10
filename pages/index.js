@@ -270,10 +270,10 @@ const Home = () => (
               <div class="col-xs-12 col-md-6 align-right">
                 <div class="timeline-text-content">
                   <h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-5">
-                    Senior Architect
+                    Senior Engineering Manager / Senior Architect
                   </h4>
                   <p class="mbr-timeline-text mbr-fonts-style display-7">
-                    <strong>@ Cognizant (working with American Express)</strong>
+                    <strong>@ <a href="https://www.cognizant.com" target="_blank">Cognizant</a> (working with <a href="https://www.americanexpress.com" target="_blank">American Express</a>)</strong>
                     <br />
 - Leading multiple application teams in Email Marketing portfolio of American Express.
 <br />
@@ -306,7 +306,14 @@ const Home = () => (
                   <p class="mbr-timeline-text mbr-fonts-style display-7">
                     <strong>@ S3 TechZulla Pvt. Ltd.</strong>
                     <br />
-Started an entrepreneurial venture to build SaaS based e-commerce and travel solutions for small and medium enterprises (SMEs). Built a team from scratch and led it to develop three online software products - RetailEMall.com, DesignStudio and TravelCRM. RetailEMall was a cloud based SaaS solution for small and mid sized retailers to set up online stores in a few clicks. DesignStudio was a web solution to build online stores for selling apparel with customized designs. TravelCRM was a web based solution originally developed for Travelopod.com and was later customized to sell to few other online travel agencies (OTAs). Startup is not operational anymore.</p>
+Started an entrepreneurial venture to build SaaS based e-commerce and travel solutions for small and medium enterprises (SMEs). Built a team from scratch and led it to develop three online software products - RetailEMall.com, DesignStudio and TravelCRM. Scaled up operations to 18 employees and 30 customers. Reference link: <a href="https://yourstory.com/2013/06/if-ecommerce-is-the-space-you-are-interested-in-techzulla-can-help-you-set-up-shop" target="_blank">Media coverage</a>
+<br />
+- RetailEMall was a cloud based SaaS solution for small and mid sized retailers to set up online stores in a few clicks. Reference link: <a href="https://web.archive.org/web/20150302160817/http:/retailemall.com/store/" target="_blank">RetailEMall.com</a>
+<br />
+- DesignStudio was a web solution to build online stores for selling apparel with customized designs. Reference link: <a href="https://web.archive.org/web/20150827053731/http:/www.techzulla.com/design-studio/" target="_blank">DesignStudio</a>
+<br />
+- TravelCRM was a web based solution originally developed for Travelopod.com and was later customized to sell to few other online travel agencies (OTAs). Reference link: <a href="https://web.archive.org/web/20160320174214/http:/www.techzulla.com/travelcrm/" target="_blank">TravelCRM</a>
+</p>
                 </div>
               </div>
             </div>
@@ -346,13 +353,13 @@ Worked as a Technical Architect for Capital Groups Companies (CGC) in the Cloud 
                   <p class="mbr-timeline-text mbr-fonts-style display-7">
                     <strong>@ NEC Technologies Ltd.</strong>
                     <br />
-Led a team of 16 presales solution engineers to support NEC’s enterprise software sales team in India, Asia Pacific, Europe and US. My key responsibilities were:<br />
-                    <br />
+Started product presales unit for NEC Technologies from scratch. Grew a team from one solution engineer to 24 members. Managed the team to support NEC’s enterprise software sales team in India, Asia Pacific, Europe and US. My key responsibilities were:<br />
+<br />
 - Growing and managing a team of solution engineers in South East Asia for NEC’s Enterprise Software Group (ESG).<br />
 - Representing NEC and delivering tech-talks at trade shows, industry events &amp; marketing events.&nbsp;<br />
-- Proposing Business Continuity &amp; IT Infra solutions to customers / global partners based on NEC IT Infrastructure software products like NEC’ ExpressCluster and Virtual PC Center (VPCC) and Spherical along with virtualization software like VMware, Hyper-V, KVM etc. Used to closely work with software sales groups in NEC subsidiaries across the world.
-<br />
-- Providing market / customer feedback (feature improvements, new feature requests) to product teams in NEC Japan and ensuring high priority items get included in product roadmap.
+- Enabling onsite sales teams across Asia-Pacific, Europe and North America with product trainings and marketing material. 
+- Proposing Business Continuity &amp; IT Infra solutions to customers / global partners based on NEC IT Infrastructure software products like NEC’ <a href="https://www.nec.com/en/global/prod/expresscluster/index.html" target="_blank">ExpressCluster (DR & BC solution)</a> and <a href="https://www.nec.com/en/global/solutions/vpcc/index.html" target="_blank">Virtual PC Center (Think client computing solution)</a> and <a href="https://nectoday.com/tag/sphericall/" target="_blank">Sphericall (Unified communication)</a> along with virtualization software like VMware, Hyper-V, KVM etc. Used to closely work with software sales groups in NEC subsidiaries across the world.<br />
+- Providing market / customer feedback (feature improvements, new feature requests) to product teams in NEC Japan and ensuring high priority items get included in product roadmap.<br />
                         </p>
                 </div>
               </div>
