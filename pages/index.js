@@ -273,7 +273,7 @@ const Home = () => (
                     Senior Engineering Manager / Senior Architect
                   </h4>
                   <p class="mbr-timeline-text mbr-fonts-style display-7">
-                    <strong>@ <a href="https://www.cognizant.com" target="_blank">Cognizant</a> (working with <a href="https://www.americanexpress.com" target="_blank">American Express</a>)</strong>
+                    <strong>@</strong> <a href="https://www.cognizant.com" target="_blank"><strong>Cognizant</strong></a> <strong>(working with </strong><a href="https://www.americanexpress.com" target="_blank"><strong>American Express</strong></a>)
                     <br />
 - Leading multiple application teams in Email Marketing portfolio of American Express.
 <br />
@@ -330,7 +330,7 @@ Started an entrepreneurial venture to build SaaS based e-commerce and travel sol
                 <div class="timeline-text-content">
                   <h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-5">Technical Architect</h4>
                   <p class="mbr-timeline-text mbr-fonts-style display-7">
-                    <strong>@ Infosys Ltd.</strong>
+                    <a href="https://www.infosys.com" target="_blank"><strong>@ Infosys Ltd.</strong></a>
                     <br />
 Worked as a Technical Architect for Capital Groups Companies (CGC) in the Cloud division of Infosys. I led design and architectural initiatives to move legacy applications from on-prem to hybrid cloud environment. Interviewed, hired and built the team from 2 engineers to 15 engineers for this initiative at India office.
                         </p>
