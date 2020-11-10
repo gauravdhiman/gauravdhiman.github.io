@@ -273,7 +273,7 @@ const Home = () => (
                     Senior Engineering Manager / Senior Architect
                   </h4>
                   <p class="mbr-timeline-text mbr-fonts-style display-7">
-                    <strong>@</strong> <a href="https://www.cognizant.com" target="_blank"><strong>Cognizant</strong></a> <strong>(working with </strong><a href="https://www.americanexpress.com" target="_blank"><strong>American Express</strong></a>)
+                    <strong>@ <a href="https://www.cognizant.com" target="_blank"><strong>Cognizant</strong></a> (working with <a href="https://www.americanexpress.com" target="_blank"><strong>American Express</strong></a>)</strong>
                     <br />
 - Leading multiple application teams in Email Marketing portfolio of American Express.
 <br />
@@ -304,7 +304,7 @@ const Home = () => (
                 <div class="timeline-text-content">
                   <h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-5">Co-Founder &amp; Entreprenuer</h4>
                   <p class="mbr-timeline-text mbr-fonts-style display-7">
-                    <strong>@ S3 TechZulla Pvt. Ltd.</strong>
+                    <strong>@ <a href="https://web.archive.org/web/20150823031746/http://www.techzulla.com/" target="_blank"><strong>S3 TechZulla Pvt. Ltd.</strong></a></strong>
                     <br />
 Started an entrepreneurial venture to build SaaS based e-commerce and travel solutions for small and medium enterprises (SMEs). Built a team from scratch and led it to develop three online software products - RetailEMall.com, DesignStudio and TravelCRM. Scaled up operations to 18 employees and 30 customers. Reference link: <a href="https://yourstory.com/2013/06/if-ecommerce-is-the-space-you-are-interested-in-techzulla-can-help-you-set-up-shop" target="_blank">Media coverage</a>
 <br />
@@ -330,7 +330,7 @@ Started an entrepreneurial venture to build SaaS based e-commerce and travel sol
                 <div class="timeline-text-content">
                   <h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-5">Technical Architect</h4>
                   <p class="mbr-timeline-text mbr-fonts-style display-7">
-                    <a href="https://www.infosys.com" target="_blank"><strong>@ Infosys Ltd.</strong></a>
+                  <strong>@ <a href="https://www.infosys.com" target="_blank"><strong>Infosys Ltd.</strong></a></strong>
                     <br />
 Worked as a Technical Architect for Capital Groups Companies (CGC) in the Cloud division of Infosys. I led design and architectural initiatives to move legacy applications from on-prem to hybrid cloud environment. Interviewed, hired and built the team from 2 engineers to 15 engineers for this initiative at India office.
                         </p>
@@ -351,7 +351,7 @@ Worked as a Technical Architect for Capital Groups Companies (CGC) in the Cloud 
                   <h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-5">
                     Technical Presales Manager</h4>
                   <p class="mbr-timeline-text mbr-fonts-style display-7">
-                    <strong>@ NEC Technologies Ltd.</strong>
+                  <strong>@ <a href="https://in.nec.com/" target="_blank"><strong>NEC Technologies</strong></a></strong>
                     <br />
 Started product presales unit for NEC Technologies from scratch. Grew a team from one solution engineer to 24 members. Managed the team to support NEC’s enterprise software sales team in India, Asia Pacific, Europe and US. My key responsibilities were:<br />
 <br />
@@ -377,8 +377,7 @@ Started product presales unit for NEC Technologies from scratch. Grew a team fro
                 <div class="timeline-text-content">
                   <h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-5">Technical Lead</h4>
                   <p class="mbr-timeline-text mbr-fonts-style display-7">
-                    <strong>
-                      @ NEC Technologies Ltd.</strong>
+                  <strong>@ <a href="https://in.nec.com/" target="_blank"><strong>NEC Technologies</strong></a></strong>
                     <br />
 Worked along with NEC’s core Linux kernel team in Japan to port OpenSolaris kernel on ARM platform for the infosystem that was planned to be installed in Toyota cars. Led a small team of three kernel engineers and one Japanese interpreter.
                         </p>
@@ -398,15 +397,15 @@ Worked along with NEC’s core Linux kernel team in Japan to port OpenSolaris ke
                   <h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-5">
                     Software Engineer</h4>
                   <p class="mbr-timeline-text mbr-fonts-style display-7">
-                    <strong>@ Cadence Dsign Systems</strong>
+                  <strong>@ <a href="https://www.cadence.com/" target="_blank"><strong>Cadence Design Systems</strong></a></strong>
                     <br />
 Worked as an engineer in product development team for Cadence’s RTL compiler.<br />
                     <br />
-                    <strong>@ Computer Associates</strong>
+                    <strong>@ <a href="https://www.ca.com/" target="_blank"><strong>Computer Associates</strong></a></strong>
                     <br />
 Worked as engineer for development of IAM (Identity and Access Management) suite of products.<br />
                     <br />
-                    <strong>@ HCL Technologies</strong>
+                    <strong>@ <a href="https://www.hcltech.com/" target="_blank"><strong>HCL Technologies</strong></a></strong>
                     <br />
 Worked as an engineer on NCR Corporation’s project for ATM management software (Gasper).<br />
                   </p>
