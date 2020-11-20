@@ -273,7 +273,7 @@ const Home = () => (
                     Senior Engineering Manager / Senior Architect
                   </h4>
                   <p class="mbr-timeline-text mbr-fonts-style display-7">
-                    <strong>@ <a href="https://www.cognizant.com" target="_blank"><strong>Cognizant</strong></a> (working with <a href="https://www.americanexpress.com" target="_blank"><strong>American Express</strong></a>)</strong>
+                    <strong>@ <a href="https://www.cognizant.com" target="_blank"><strong>Cognizant Technology Solutions</strong></a> (working with <a href="https://www.americanexpress.com" target="_blank"><strong>American Express</strong></a>)</strong>
                     <br />
 - Leading multiple application teams in Email Marketing portfolio of American Express.
 <br />
@@ -351,7 +351,7 @@ Worked as a Technical Architect for Capital Groups Companies (CGC) in the Cloud 
                   <h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-5">
                     Technical Presales Manager</h4>
                   <p class="mbr-timeline-text mbr-fonts-style display-7">
-                  <strong>@ <a href="https://in.nec.com/" target="_blank"><strong>NEC Technologies</strong></a></strong>
+                  <strong>@ <a href="https://in.nec.com/" target="_blank"><strong>NEC HCL System Technologies Ltd. (now NEC India)</strong></a></strong>
                     <br />
 Started product presales unit for NEC Technologies from scratch. Grew a team from one solution engineer to 24 members. Managed the team to support NEC’s enterprise software sales team in India, Asia Pacific, Europe and US. My key responsibilities were:<br />
 <br />
@@ -377,7 +377,7 @@ Started product presales unit for NEC Technologies from scratch. Grew a team fro
                 <div class="timeline-text-content">
                   <h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-5">Technical Lead</h4>
                   <p class="mbr-timeline-text mbr-fonts-style display-7">
-                  <strong>@ <a href="https://in.nec.com/" target="_blank"><strong>NEC Technologies</strong></a></strong>
+                  <strong>@ <a href="https://in.nec.com/" target="_blank"><strong>NEC HCL System Technologies Ltd. (now NEC India)</strong></a></strong>
                     <br />
 Worked along with NEC’s core Linux kernel team in Japan to port OpenSolaris kernel on ARM platform for the infosystem that was planned to be installed in Toyota cars. Led a small team of three kernel engineers and one Japanese interpreter.
                         </p>
@@ -401,11 +401,11 @@ Worked along with NEC’s core Linux kernel team in Japan to port OpenSolaris ke
                     <br />
 Worked as an engineer in product development team for Cadence’s RTL compiler.<br />
                     <br />
-                    <strong>@ <a href="https://www.ca.com/" target="_blank"><strong>Computer Associates</strong></a></strong>
+                    <strong>@ <a href="https://www.ca.com/" target="_blank"><strong>Computer Associates (now part of Broadcom)</strong></a></strong>
                     <br />
 Worked as engineer for development of IAM (Identity and Access Management) suite of products.<br />
                     <br />
-                    <strong>@ <a href="https://www.hcltech.com/" target="_blank"><strong>HCL Technologies</strong></a></strong>
+                    <strong>@ <a href="https://www.hcltech.com/" target="_blank"><strong>HCL Technologies Ltd.</strong></a></strong>
                     <br />
 Worked as an engineer on NCR Corporation’s project for ATM management software (Gasper).<br />
                   </p>
