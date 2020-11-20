@@ -275,7 +275,7 @@ const Home = () => (
                   <p class="mbr-timeline-text mbr-fonts-style display-7">
                     <strong>@ <a href="https://www.cognizant.com" target="_blank"><strong>Cognizant Technology Solutions</strong></a> (working with <a href="https://www.americanexpress.com" target="_blank"><strong>American Express</strong></a>)</strong>
                     <br />
-- Leading multiple application teams in Email Marketing portfolio of American Express.
+- Leading multiple application teams in Email Marketing portfolio of American Express. Portfolio's objective is to re-enage customer by sending relevant and personalized marketing emails to customers at right time.
 <br />
 - Few of these applications are frontend applications built using technologies like NodeJS, NextJS, ReactJS, Redux.<br />
 - One is a backend application (ETL) built using Java, HIVE, PySpark and HBase technologies. Backend ETL application is responsible for processing more than 100 million customer records per month for delivery of marketing emails.<br />
