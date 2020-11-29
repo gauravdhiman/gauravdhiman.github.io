@@ -306,7 +306,7 @@ const Home = () => (
                   <p class="mbr-timeline-text mbr-fonts-style display-7">
                     <strong>@ <a href="https://web.archive.org/web/20150823031746/http://www.techzulla.com/" target="_blank"><strong>S3 TechZulla Pvt. Ltd.</strong></a></strong>
                     <br />
-Started an entrepreneurial venture to build SaaS based e-commerce and travel solutions for small and medium enterprises (SMEs). Built a team from scratch and led it to develop three online software products - RetailEMall.com, DesignStudio and TravelCRM. Scaled up operations to 18 employees and 30 customers. Reference link: <a href="https://yourstory.com/2013/06/if-ecommerce-is-the-space-you-are-interested-in-techzulla-can-help-you-set-up-shop" target="_blank">Media coverage</a>
+Started an entrepreneurial venture to build SaaS based e-commerce and travel solutions for small and medium enterprises (SMEs). Built a team from scratch and led it to develop three online software products - RetailEMall.com, DesignStudio and TravelCRM. Scaled up operations to 18 employees and 30 customers. Media coverage on: <a href="https://yourstory.com/2013/06/if-ecommerce-is-the-space-you-are-interested-in-techzulla-can-help-you-set-up-shop" target="_blank">YourStory.com</a>, <a href="https://nextbigwhat.com/saas-startup-retailemall-enables-businesses-to-sell-digital-downloadable-files-with-multiple-currency-feature/" target="_blank">NextBigWhat.com</a>
 <br />
 - RetailEMall was a cloud based SaaS solution for small and mid sized retailers to set up online stores in a few clicks. Reference link: <a href="https://web.archive.org/web/20150302160817/http:/retailemall.com/store/" target="_blank">RetailEMall.com</a>
 <br />
