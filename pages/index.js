@@ -399,7 +399,7 @@ Worked along with NEC’s core Linux kernel team in Japan to port OpenSolaris ke
                   <p class="mbr-timeline-text mbr-fonts-style display-7">
                   <strong>@ <a href="https://www.cadence.com/" target="_blank"><strong>Cadence Design Systems</strong></a></strong>
                     <br />
-Worked as an engineer in product development team for Cadence’s RTL compiler.<br />
+Worked as an engineer in product development team for Cadence’s RTL compiler (<a href="https://en.wikipedia.org/wiki/Logic_synthesis" target="_blank"><strong>logic synthesis</strong></a>) product. Cadence is the second largest <a href="https://en.wikipedia.org/wiki/Electronic_design_automation" target="_blank"><strong>EDA</strong></a> company in the world.<br />
                     <br />
                     <strong>@ <a href="https://www.ca.com/" target="_blank"><strong>Computer Associates (now part of Broadcom)</strong></a></strong>
                     <br />
