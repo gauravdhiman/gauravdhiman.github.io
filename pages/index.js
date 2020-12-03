@@ -227,7 +227,7 @@ const Home = () => (
 - Building solutions on microservices and cloud architecture that are scalable using Docker and Kubernetes.<br />
 - Extensive experience with development and delivery of full-stack web and cross platform mobile applications.<br />
 - Extensive experience with big data ETL and analytics applications based on PySpark and Hadoop technologies.<br />
-- Hands-on with development technologies like NodeJS, ReactJS, Redux, Python, RDBMS, NoSQL DBs, PySpark, Hadoop, Hive.<br />
+- Hands-on with development technologies like NodeJS, ReactJS, Redux, Python, RDBMS, NoSQL DBs, PySpark, Hadoop, Hive, C/C++, Linux/Unix.<br />
 - Hands on with testing frameworks like MochaJS, ChaiJS, SinonJS, Cypress, Behave (python), pytest etc.<br />
 - Well versed with tools like Git, JIRA, Jenkins, Containers (Dockers), Kubernetes.<br />
 - Knowledge of Machine Learning (ML) landscape; Deep neural networks, Convolutional neural networks, Recurrent Neural networks, Re-enforcement learning.</p>
@@ -241,7 +241,7 @@ const Home = () => (
                     </div>
                     <div class="card-text">
                       <h4 class="mbr-content-title mbr-bold mbr-fonts-style display-7">Leadership skills</h4>
-                      <p class="mbr-content-text mbr-fonts-style display-7">- Keeping abreast with latest technology trends and innovations.<br />
+                      <p class="mbr-content-text mbr-fonts-style display-7">- Keeping up to date with latest technology trends and innovations.<br />
 - Leading initiatives for technology transformation - from old tech stack to latest tech stacks.<br />
 - Capturing business problems and leading teams to build and deliver customer focused technology solutions for the same.<br />
 - Aligning teams on technical achitecture across enterprise or business units to achieve larger business objectives.<br />
@@ -379,7 +379,7 @@ Started product presales unit for NEC Technologies from scratch. Grew a team fro
                   <p class="mbr-timeline-text mbr-fonts-style display-7">
                   <strong>@ <a href="https://in.nec.com/" target="_blank"><strong>NEC HCL System Technologies Ltd. (now NEC India)</strong></a></strong>
                     <br />
-Worked along with NEC’s core Linux kernel team in Japan to port OpenSolaris kernel on ARM platform for the infosystem that was planned to be installed in Toyota cars. Led a small team of three kernel engineers and one Japanese interpreter.
+Worked along with NEC’s core Linux kernel team in Japan to port OpenSolaris kernel on ARM platform for the infosystem that was planned to be installed in Toyota cars. Led a small team of three kernel engineers and one Japanese interpreter. Technologies used: C language, Assembly lnguage.
                         </p>
                 </div>
               </div>
@@ -399,15 +399,15 @@ Worked along with NEC’s core Linux kernel team in Japan to port OpenSolaris ke
                   <p class="mbr-timeline-text mbr-fonts-style display-7">
                   <strong>@ <a href="https://www.cadence.com/" target="_blank"><strong>Cadence Design Systems</strong></a></strong>
                     <br />
-Worked as an engineer in product development team for Cadence’s RTL compiler (<a href="https://en.wikipedia.org/wiki/Logic_synthesis" target="_blank"><strong>logic synthesis</strong></a>) product. Cadence is the second largest <a href="https://en.wikipedia.org/wiki/Electronic_design_automation" target="_blank"><strong>EDA</strong></a> company in the world.<br />
+Worked as an engineer in product development team for Cadence’s RTL compiler (<a href="https://en.wikipedia.org/wiki/Logic_synthesis" target="_blank"><strong>logic synthesis</strong></a>) product. Cadence is the second largest <a href="https://en.wikipedia.org/wiki/Electronic_design_automation" target="_blank"><strong>EDA</strong></a> company in the world. Technologies used: C/C++, Linux, GDB.<br />
                     <br />
                     <strong>@ <a href="https://www.ca.com/" target="_blank"><strong>Computer Associates (now part of Broadcom)</strong></a></strong>
                     <br />
-Worked as engineer for development of IAM (Identity and Access Management) suite of products.<br />
+Worked as engineer for development of IAM (Identity and Access Management) suite of products. Technologies used: C/C++, Linux.<br />
                     <br />
                     <strong>@ <a href="https://www.hcltech.com/" target="_blank"><strong>HCL Technologies Ltd.</strong></a></strong>
                     <br />
-Worked as an engineer on NCR Corporation’s project for ATM management software (Gasper).<br />
+Worked as an engineer on NCR Corporation’s project for ATM management software (Gasper). Technologies used: VBA, VB Script<br />
                   </p>
                 </div>
               </div>
