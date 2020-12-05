@@ -262,7 +262,7 @@ const Home = () => (
             <div class="row timeline-element reverse separline">
               <div class="timeline-date-panel col-xs-12 col-md-6  align-left">
                 <div class="time-line-date-content">
-                  <p class="mbr-timeline-date mbr-fonts-style display-5">At Present</p>
+                  <p class="mbr-timeline-date mbr-fonts-style display-5">Jul 2015 till now</p>
                 </div>
               </div>
               <span class="iconBackground">
