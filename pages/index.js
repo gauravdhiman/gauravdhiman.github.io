@@ -259,10 +259,32 @@ const Home = () => (
         <div class="container align-center">
           <h2 class="mbr-section-title pb-3 mbr-fonts-style display-2">Professional Experience</h2>
           <div class="container timelines-container" mbri-timelines="">
+          <div class="row timeline-element separline">
+              <div class="timeline-date-panel col-xs-12 col-md-6  align-left">
+                <div class="time-line-date-content">
+                  <p class="mbr-timeline-date mbr-fonts-style display-5">Jan 2021 - till now</p>
+                </div>
+              </div>
+              <span class="iconBackground">
+              </span>
+              <div class="col-xs-12 col-md-6 align-right">
+                <div class="timeline-text-content">
+                  <h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-5">
+                    Senior Architect
+                  </h4>
+                  <p class="mbr-timeline-text mbr-fonts-style display-7">
+                    <strong>@ <a href="https://www.pennymacusa.com" target="_blank"><strong>PennyMac Loan Services</strong></a></strong>
+                    <br />
+- Technically leading the team to design and develop an in-house loan procurement application for correspondent business line.<br />
+- Rethink the architecture (using AWS) to improve the performance and scalability of an app.
+                    </p>
+                </div>
+              </div>
+            </div>
             <div class="row timeline-element reverse separline">
               <div class="timeline-date-panel col-xs-12 col-md-6  align-left">
                 <div class="time-line-date-content">
-                  <p class="mbr-timeline-date mbr-fonts-style display-5">Jul 2014 till now</p>
+                  <p class="mbr-timeline-date mbr-fonts-style display-5">Jul 2014 - Jan 2021</p>
                 </div>
               </div>
               <span class="iconBackground">
@@ -275,18 +297,13 @@ const Home = () => (
                   <p class="mbr-timeline-text mbr-fonts-style display-7">
                     <strong>@ <a href="https://www.cognizant.com" target="_blank"><strong>Cognizant Technology Solutions</strong></a> (working with <a href="https://www.americanexpress.com" target="_blank"><strong>American Express</strong></a>)</strong>
                     <br />
-- Leading multiple application teams in Email Marketing portfolio of American Express. Portfolio's objective is to re-enage customer by sending relevant and personalized marketing emails to customers at right time.
-<br />
+- Leading multiple application teams in Email Marketing portfolio of American Express. Portfolio's objective is to re-enage customer by sending relevant and personalized marketing emails to customers at right time.<br />
 - Few of these applications are customer facing web applications built using technologies like NodeJS, NextJS, ReactJS, Redux and MongoDB.<br />
 - One is a big-data processing application (ETL) built using Java, HIVE, Python, Spark (PySpark) and HBase technologies. This ETL application is responsible for processing more than 100 million customer records per month for delivery of marketing emails.<br />
-- Working with the product management teams to refine, align and implement the product roadmaps for these applications.
-<br />
-- Prepare the mid and long term architectural vision and align other teams in the email marketing ecosystem to achieve it.
-<br />
-- Motivate, mentor and drive the team members to achieve their respective delivery goals.
-<br />
-- Continuously review the development processes to ensure best practices are followed across teams for development, code reviews, testing and release cycles.
-<br />
+- Working with the product management teams to refine, align and implement the product roadmaps for these applications.<br />
+- Prepare the mid and long term architectural vision and align other teams in the email marketing ecosystem to achieve it.<br />
+- Motivate, mentor and drive the team members to achieve their respective delivery goals.<br />
+- Continuously review the development processes to ensure best practices are followed across teams for development, code reviews, testing and release cycles.<br />
 - Contribute to code development, pull requests (PR) reviews and unit as well as end-to-end cucumber tests, as bandwidth allows.
                     </p>
                 </div>
@@ -295,7 +312,7 @@ const Home = () => (
             <div class="row timeline-element  separline">
               <div class="timeline-date-panel col-xs-12 col-md-6 align-right">
                 <div class="time-line-date-content">
-                  <p class="mbr-timeline-date mbr-fonts-style display-5">Oct 2012 to Jun 2014</p>
+                  <p class="mbr-timeline-date mbr-fonts-style display-5">Oct 2012 - Jun 2014</p>
                 </div>
               </div>
               <span class="iconBackground">
@@ -306,12 +323,9 @@ const Home = () => (
                   <p class="mbr-timeline-text mbr-fonts-style display-7">
                     <strong>@ <a href="https://web.archive.org/web/20150823031746/http://www.techzulla.com/" target="_blank"><strong>S3 TechZulla Pvt. Ltd.</strong></a></strong>
                     <br />
-Started an entrepreneurial venture to build SaaS based e-commerce and travel solutions for small and medium enterprises (SMEs). Built a team from scratch and led it to develop three online software products - RetailEMall.com, DesignStudio and TravelCRM. Scaled up operations to around 80 customers. Media coverage on: <a href="https://yourstory.com/2013/06/if-ecommerce-is-the-space-you-are-interested-in-techzulla-can-help-you-set-up-shop" target="_blank">YourStory.com</a>, <a href="https://nextbigwhat.com/saas-startup-retailemall-enables-businesses-to-sell-digital-downloadable-files-with-multiple-currency-feature/" target="_blank">NextBigWhat.com</a>
-<br />
-- RetailEMall was a cloud based SaaS solution for small and mid sized retailers to set up online stores in a few clicks. Reference link: <a href="https://web.archive.org/web/20150302160817/http:/retailemall.com/store/" target="_blank">RetailEMall.com</a>
-<br />
-- DesignStudio was a web solution to build online stores for selling apparel with customized designs. Reference link: <a href="https://web.archive.org/web/20150827053731/http:/www.techzulla.com/design-studio/" target="_blank">DesignStudio</a>
-<br />
+- Started an entrepreneurial venture to build SaaS based e-commerce and travel solutions for small and medium enterprises (SMEs). Built a team from scratch and led it to develop three online software products - RetailEMall.com, DesignStudio and TravelCRM. Scaled up operations to around 80 customers. Media coverage on: <a href="https://yourstory.com/2013/06/if-ecommerce-is-the-space-you-are-interested-in-techzulla-can-help-you-set-up-shop" target="_blank">YourStory.com</a>, <a href="https://nextbigwhat.com/saas-startup-retailemall-enables-businesses-to-sell-digital-downloadable-files-with-multiple-currency-feature/" target="_blank">NextBigWhat.com</a><br />
+- RetailEMall was a cloud based SaaS solution for small and mid sized retailers to set up online stores in a few clicks. Reference link: <a href="https://web.archive.org/web/20150302160817/http:/retailemall.com/store/" target="_blank">RetailEMall.com</a><br />
+- DesignStudio was a web solution to build online stores for selling apparel with customized designs. Reference link: <a href="https://web.archive.org/web/20150827053731/http:/www.techzulla.com/design-studio/" target="_blank">DesignStudio</a><br />
 - TravelCRM was a web based solution originally developed for Travelopod.com and was later customized to sell to few other online travel agencies (OTAs). Reference link: <a href="https://web.archive.org/web/20160320174214/http:/www.techzulla.com/travelcrm/" target="_blank">TravelCRM</a>
 </p>
                 </div>
@@ -321,7 +335,7 @@ Started an entrepreneurial venture to build SaaS based e-commerce and travel sol
               <div class="timeline-date-panel col-xs-12 col-md-6  align-left">
                 <div class="time-line-date-content">
                   <p class="mbr-timeline-date mbr-fonts-style display-5">
-                    Aug 2011 to Aug 2012</p>
+                    Aug 2011 - Aug 2012</p>
                 </div>
               </div>
               <span class="iconBackground">
@@ -341,7 +355,7 @@ Worked as a Technical Architect for Capital Groups Companies (CGC) in the Cloud 
               <div class="timeline-date-panel col-xs-12 col-md-6 align-right">
                 <div class="time-line-date-content">
                   <p class="mbr-timeline-date mbr-fonts-style display-5">
-                    Oct 2008 to Jul 2012</p>
+                    Oct 2008 - Jul 2012</p>
                 </div>
               </div>
               <span class="iconBackground">
@@ -368,7 +382,7 @@ Started product presales unit for NEC Technologies from scratch. Grew a team fro
               <div class="timeline-date-panel col-xs-12 col-md-6  align-left">
                 <div class="time-line-date-content">
                   <p class="mbr-timeline-date mbr-fonts-style display-5">
-                    Oct 2006 to Mar 2008</p>
+                    Oct 2006 - Mar 2008</p>
                 </div>
               </div>
               <span class="iconBackground">
@@ -387,7 +401,7 @@ Worked along with NEC’s core Linux kernel team in Japan to port OpenSolaris ke
             <div class="row timeline-element">
               <div class="timeline-date-panel col-xs-12 col-md-6 align-right">
                 <div class="time-line-date-content">
-                  <p class="mbr-timeline-date mbr-fonts-style display-5">Sept 2002 to Oct 2006</p>
+                  <p class="mbr-timeline-date mbr-fonts-style display-5">Sept 2002 - Oct 2006</p>
                 </div>
               </div>
               <span class="iconBackground">
