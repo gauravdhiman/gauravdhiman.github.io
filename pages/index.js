@@ -259,7 +259,7 @@ const Home = () => (
         <div class="container align-center">
           <h2 class="mbr-section-title pb-3 mbr-fonts-style display-2">Professional Experience</h2>
           <div class="container timelines-container" mbri-timelines="">
-          <div class="row timeline-element separline">
+          {/* <div class="row timeline-element separline">
               <div class="timeline-date-panel col-xs-12 col-md-6  align-left">
                 <div class="time-line-date-content">
                   <p class="mbr-timeline-date mbr-fonts-style display-5">Jan 2021 - till now</p>
@@ -280,7 +280,7 @@ const Home = () => (
                     </p>
                 </div>
               </div>
-            </div>
+            </div> */}
             <div class="row timeline-element reverse separline">
               <div class="timeline-date-panel col-xs-12 col-md-6  align-left">
                 <div class="time-line-date-content">
