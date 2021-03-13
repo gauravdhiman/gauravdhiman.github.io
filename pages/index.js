@@ -259,7 +259,7 @@ const Home = () => (
         <div class="container align-center">
           <h2 class="mbr-section-title pb-3 mbr-fonts-style display-2">Professional Experience</h2>
           <div class="container timelines-container" mbri-timelines="">
-          {/* <div class="row timeline-element separline">
+          <div class="row timeline-element separline">
               <div class="timeline-date-panel col-xs-12 col-md-6  align-left">
                 <div class="time-line-date-content">
                   <p class="mbr-timeline-date mbr-fonts-style display-5">Jan 2021 - till now</p>
@@ -276,11 +276,12 @@ const Home = () => (
                     <strong>@ <a href="https://www.pennymacusa.com" target="_blank"><strong>PennyMac Loan Services</strong></a></strong>
                     <br />
 - Technically leading the team to design and develop an in-house loan procurement application for correspondent business line.<br />
-- Rethink the architecture (using AWS) to improve the performance and scalability of an app.
+- Rethink the architecture (using AWS) to improve the performance and scalability of an app.<br />
+- Did a quick POC to showcase how PySpark can be used to generate business reports in place of not so performant Postgres Materialized views.
                     </p>
                 </div>
               </div>
-            </div> */}
+            </div>
             <div class="row timeline-element reverse separline">
               <div class="timeline-date-panel col-xs-12 col-md-6  align-left">
                 <div class="time-line-date-content">
@@ -297,7 +298,8 @@ const Home = () => (
                   <p class="mbr-timeline-text mbr-fonts-style display-7">
                     <strong>@ <a href="https://www.cognizant.com" target="_blank"><strong>Cognizant Technology Solutions</strong></a> (working with <a href="https://www.americanexpress.com" target="_blank"><strong>American Express</strong></a>)</strong>
                     <br />
-- Leading multiple application teams in Email Marketing portfolio of American Express. Portfolio's objective is to re-enage customer by sending relevant and personalized marketing emails to customers at right time.<br />
+- Technically lead teams to build web apps and big-data pipelines in the Marketing group of American Expess. Portfolio's objective is to re-enage customer by sending relevant and personalized marketing emails to customers at right time.<br />
+- Customer facing web apps are built using NodeJS, NextJS, ReactJS, Redux and MongoDB. Big-data pipelines are built using Java, HIVE, Python, Spark (PySpark) and HBase tech stack. It processes 100+ million customer records per month for delivery of marketing emails.<br />
 - Few of these applications are customer facing web applications built using technologies like NodeJS, NextJS, ReactJS, Redux and MongoDB.<br />
 - One is a big-data processing application (ETL) built using Java, HIVE, Python, Spark (PySpark) and HBase technologies. This ETL application is responsible for processing more than 100 million customer records per month for delivery of marketing emails.<br />
 - Working with the product management teams to refine, align and implement the product roadmaps for these applications.<br />
