@@ -275,9 +275,9 @@ const Home = () => (
                   <p class="mbr-timeline-text mbr-fonts-style display-7">
                     <strong>@ <a href="https://www.pennymacusa.com" target="_blank"><strong>PennyMac Loan Services</strong></a></strong>
                     <br />
-- Technically leading the team to design and develop an in-house loan procurement application for correspondent business line.<br />
+- Technically lead an Analytics for coresspondent mortgage business line. Moving the team towards adoption of big-data technologies like Spark, Kafka, HDFS etc.
 - Rethink the architecture (using AWS) to improve the performance and scalability of an app.<br />
-- Did a quick POC to showcase how PySpark can be used to generate business reports in place of not so performant Postgres Materialized views.
+- Mentoring - Did a quick POC to showcase how to use PySpark streaming to generate real-time reports in place of Postgres Materialized views.
                     </p>
                 </div>
               </div>
