@@ -275,9 +275,12 @@ const Home = () => (
                   <p class="mbr-timeline-text mbr-fonts-style display-7">
                     <strong>@ <a href="https://www.pennymacusa.com" target="_blank"><strong>PennyMac Loan Services</strong></a></strong>
                     <br />
-- Technically lead an Analytics for coresspondent mortgage business line. Moving the team towards adoption of big-data technologies like Spark, Kafka, HDFS etc.
-- Rethink the architecture (using AWS) to improve the performance and scalability of an app.<br />
-- Mentoring - Did a quick POC to showcase how to use PySpark streaming to generate real-time reports in place of Postgres Materialized views.
+- Technically leading Analytics team for loan processing system. Directing team towards adoption of big-data analytics.<br />
+- Hiring, mentoring and building teams of engineers and senior engineers to fulfill the resource needs.<br />
+- Helping team to transition batch reports from DB stored procedures to Spark based processes, to off-load the DB workload and improve
+DB performance.<br />
+- Led and delivered an initiative to transition a batch loan processing pipeline report to real-time incremental Pandas based report,
+processing around 0.4 million events per hour using AWS lambdas.
                     </p>
                 </div>
               </div>
