@@ -1,5 +1,5 @@
 import Head from 'next/head'
-const discussion_im_url = "http://discussion.im"
+const discussion_im_url = "https://discussion-im.herokuapp.com"
 
 const Home = () => (
   <div>
@@ -500,7 +500,7 @@ Worked as an engineer on NCR Corporation’s project for ATM management software
 
                 <tbody>
                   <tr>
-                    <td class="body-item mbr-fonts-style display-7">Built <a href={discussion_im_url} target="_blank">Discussion.im</a>, a Progressive Web App (PWA) that makes the online forums much fun to use. This app is built from scratch using <a href="https://material-ui.com/" target="_blank">MaterialUI</a> (ReactJS), <a href="https://redux.js.org/" target="_blank">Redux</a>, <a href="https://redux-orm.github.io/redux-orm/" target="_blank">Redux-ORM</a>,&nbsp;<a href="https://feathersjs.com/" target="_blank">FeathersJS</a> (Web-services) and <a href="https://nextjs.org/" target="_blank">NextJS </a>(SSR).</td>
+                    <td class="body-item mbr-fonts-style display-7">Built a <a href={discussion_im_url} target="_blank">real time discussion forum</a>, a Progressive Web App (PWA) that makes the online forums much fun to use. This app is built from scratch using <a href="https://material-ui.com/" target="_blank">MaterialUI</a> (ReactJS), <a href="https://redux.js.org/" target="_blank">Redux</a>, <a href="https://redux-orm.github.io/redux-orm/" target="_blank">Redux-ORM</a>,&nbsp;<a href="https://feathersjs.com/" target="_blank">FeathersJS</a> (Web-services) and <a href="https://nextjs.org/" target="_blank">NextJS </a>(SSR).</td>
                     <td class="body-item mbr-fonts-style display-7">
                       <a href={discussion_im_url} target="_blank">{discussion_im_url}</a>
                     </td>
@@ -762,7 +762,7 @@ Phone: +1 &nbsp;(480) 494 6684 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<b
               <p>
                 <a class="text-primary" href="assets/files/gaurav-dhiman-resume.pdf" target="_blank">Download my Resume</a>
                 <br/>
-                <a class="text-primary" href={discussion_im_url} target="_blank">Discussion.im</a>
+                <a class="text-primary" href={discussion_im_url} target="_blank">Real time discussion forum app</a>
                 <br />
                 <br />
               </p>
