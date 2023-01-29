@@ -24,7 +24,7 @@ const Home = () => (
             <meta name="description" content="Personal website of technology leader with multiple years of software industry experience in web, mobile, big-data and machine learning space." />
             <meta name="fo-verify" content="6b09b4d0-cd16-46b0-9c4a-de8c165521c8"></meta>
 
-            <title>Gaurav Dhiman - Technology leader with 18+ experience.</title>
+            <title>Gaurav Dhiman - Technology leader with 20+ experience.</title>
             <link rel="stylesheet" href="assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.css" />
             <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css" />
             <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css" />
@@ -102,7 +102,7 @@ const Home = () => (
                         <h1 class="mbr-section-title align-left mbr-bold pb-3 mbr-fonts-style display-1">
                             Hands-on Technology Leader</h1>
                         <h3 class="mbr-section-subtitle align-left mbr-light pb-3 mbr-fonts-style display-2">
-                            with 19+ years experience&nbsp;</h3>
+                            with 20+ years experience&nbsp;</h3>
                         <p class="mbr-text align-left pb-3 mbr-fonts-style display-5">Thanks for visiting my website. I am a software professional with extensive experience in leading tech initiatives and teams related to web, mobile and big-data applications for industry leading companies. Feel free to explore my website and social profiles to know more about me.</p>
                         <div class="mbr-section-btn align-left">
                             <a class="btn btn-md btn-primary display-4" href="https://blog.gaurav-dhiman.com" target="_blank">MY BLOG</a>
@@ -262,7 +262,7 @@ const Home = () => (
                         <div class="row timeline-element reverse separline">
                             <div class="timeline-date-panel col-xs-12 col-md-6  align-left">
                                 <div class="time-line-date-content">
-                                    <p class="mbr-timeline-date mbr-fonts-style display-5">Jul 2014 - Jan 2021</p>
+                                    <p class="mbr-timeline-date mbr-fonts-style display-5">Aug 2022 - till now</p>
                                 </div>
                             </div>
                             <span class="iconBackground">
@@ -273,7 +273,7 @@ const Home = () => (
                                         Senior Software Engineer
                                     </h4>
                                     <p class="mbr-timeline-text mbr-fonts-style display-7">
-                                        <strong>@ <a href="https://www.meta.com" target="_blank"><strong>Meta.com</strong></a> (originally <a href="https://www.facebook.com" target="_blank">Facebook.com</a>)</strong>
+                                        <strong>@ <a href="https://www.meta.com" target="_blank">Meta.com</a> (originally <a href="https://www.facebook.com" target="_blank">Facebook.com</a>)</strong>
                                         <br />
                                         - Designing & developing software for other users within Meta.<br />
                                         - Lead a team of engineers to build scalable softweare using Hack/Php, React and Big Data technologies.<br />
@@ -285,7 +285,7 @@ const Home = () => (
                         <div class="row timeline-element separline">
                             <div class="timeline-date-panel col-xs-12 col-md-6  align-left">
                                 <div class="time-line-date-content">
-                                    <p class="mbr-timeline-date mbr-fonts-style display-5">Jan 2021 - till now</p>
+                                    <p class="mbr-timeline-date mbr-fonts-style display-5">Jan 2021 - July 2022</p>
                                 </div>
                             </div>
                             <span class="iconBackground">
