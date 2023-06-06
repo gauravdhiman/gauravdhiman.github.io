@@ -273,11 +273,12 @@ const Home = () => (
                                         Senior Software Engineer
                                     </h4>
                                     <p class="mbr-timeline-text mbr-fonts-style display-7">
-                                        <strong>@ <a href="https://www.meta.com" target="_blank">Meta.com</a> (originally <a href="https://www.facebook.com" target="_blank">Facebook.com</a>)</strong>
+                                        <strong>@ <a href="https://www.meta.com" target="_blank">Meta</a> (originally <a href="https://www.facebook.com" target="_blank">Facebook.com</a>)</strong>
                                         <br />
-                                        - Designing & developing software for other users within Meta.<br />
-                                        - Lead a team of engineers to build scalable softweare using Hack/Php, React and Big Data technologies.<br />
-                                        - Participate in hiring process to build right team of engineers and senior engineers for Meta.
+                                        - Lead design and development of software products for Meta’s Sales & Ad groups. Lead and represent team in multi-team initiatives.<br />
+                                        - Cross-Functional (XFN) communication to understand and refine business requirements. Accordingly create design documents.<br />
+                                        - Help team by breaking down business requirements into actionable tasks and organizing them.<br />
+                                        - Write code and perform code reviews. Help engineers, when they face technical challenges.
                                     </p>
                                 </div>
                             </div>
