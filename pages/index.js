@@ -227,7 +227,7 @@ const Home = () => (
                                                 - Building solutions using event-driven microservices and cloud native architectures that are scalable using Docker and Kubernetes.<br />
                                                 - Extensive experience with big data ETL and analytics applications based on PySpark and Hadoop technologies.<br />
                                                 - Extensive experience with development and delivery of full-stack web and cross platform mobile applications.<br />
-                                                - Hands-on with development technologies like Python, SQL/NoSQL DBs, PySpark, Pandas Hadoop, Hive, Kafka, NodeJS, ReactJS, Redux, C/C++, Linux/Unix.<br />
+                                                - Hands-on with development technologies like Python, SQL/NoSQL DBs, PySpark, Pandas Hadoop, Hive, Kafka, NodeJS, ReactJS, Redux, PHP (Hack), C/C++, Linux/Unix.<br />
                                                 - Hands on with testing frameworks like MochaJS, ChaiJS, SinonJS, Cypress, Behave (Cucumber), Pytest.<br />
                                                 - Well versed with tools like Git, JIRA, NPM, PIP, Jenkins, Containers (Dockers), Kubernetes.<br />
                                                 - Knowledge of Machine Learning (ML) landscape; Deep neural networks, Convolutional neural networks, Recurrent Neural networks, Re-enforcement learning, Keras, TesorFlow.</p>
