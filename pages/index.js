@@ -275,7 +275,7 @@ const Home = () => (
                                     <p class="mbr-timeline-text mbr-fonts-style display-7">
                                         <strong>@ <a href="https://www.meta.com" target="_blank">Meta</a> (originally <a href="https://www.facebook.com" target="_blank">Facebook.com</a>)</strong>
                                         <br />
-                                        - Lead design and development of software products for Meta's Sales & Ads group. Lead and represent team in multi-team initiatives.<br />
+                                        - Lead design and develop full-stack software products for Meta's Sales & Ads group. Lead and represent team in multi-team initiatives.<br />
                                         - Closely work with Cross-Functional (XFN) teams & technically lead business requirement discussions. Provide relevant suggestions.<br />
                                         - Design large scale, highly-available, low-latency & fault-tolerant distributed systems. Create system design documentations.<br />
                                         - Help team break down business requirements into actionable tasks and organize them.<br />
