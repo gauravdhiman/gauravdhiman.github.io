@@ -24,7 +24,7 @@ const Home = () => (
             <meta name="description" content="Personal website of technology leader with multiple years of software industry experience in web, mobile, big-data and machine learning space." />
             <meta name="fo-verify" content="6b09b4d0-cd16-46b0-9c4a-de8c165521c8"></meta>
 
-            <title>Gaurav Dhiman - Technology leader with 20+ experience.</title>
+            <title>Gaurav Dhiman - Technology leader with 21+ experience.</title>
             <link rel="stylesheet" href="assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.css" />
             <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css" />
             <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css" />
@@ -102,7 +102,7 @@ const Home = () => (
                         <h1 class="mbr-section-title align-left mbr-bold pb-3 mbr-fonts-style display-1">
                             Hands-on Technology Leader</h1>
                         <h3 class="mbr-section-subtitle align-left mbr-light pb-3 mbr-fonts-style display-2">
-                            with 20+ years experience&nbsp;</h3>
+                            with 21+ years experience&nbsp;</h3>
                         <p class="mbr-text align-left pb-3 mbr-fonts-style display-5">Thanks for visiting my website. I am a software professional with extensive experience in leading tech initiatives and teams related to web, mobile and big-data applications for industry leading companies. Feel free to explore my website and social profiles to know more about me.</p>
                         <div class="mbr-section-btn align-left">
                             <a class="btn btn-md btn-primary display-4" href="https://blog.gaurav-dhiman.com" target="_blank">MY BLOG</a>
