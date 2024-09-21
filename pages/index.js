@@ -62,12 +62,12 @@ const Home = () => (
                     <div class="menu-logo">
                         <div class="navbar-brand">
                             <span class="navbar-logo">
-                                <a href="https://gaurav-dhiman.com">
+                                <a href="https://gauravdhiman.github.io">
                                     <img src="assets/images/dsc-260-98x65.jpeg" alt="Gaurav Dhiman" title="Gaurav Dhiman" />
                                 </a>
                             </span>
                             <span class="navbar-caption-wrap">
-                                <a class="navbar-caption text-white display-5" href="https://gaurav-dhiman.com">
+                                <a class="navbar-caption text-white display-5" href="https://gauravdhiman.github.io">
                                     Gaurav Dhiman</a>
                             </span>
                         </div>
@@ -75,7 +75,7 @@ const Home = () => (
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
 
                         <div class="navbar-buttons mbr-section-btn">
-                            <a class="btn btn-sm btn-primary display-4" href="https://blog.gaurav-dhiman.com" target="_blank">
+                            <a class="btn btn-sm btn-primary display-4" href="https://gauravdhiman.hashnode.dev/" target="_blank">
                                 <span class="mbri-edit mbr-iconfont mbr-iconfont-btn ">
                                 </span>
                                 MY BLOG
@@ -102,10 +102,10 @@ const Home = () => (
                         <h1 class="mbr-section-title align-left mbr-bold pb-3 mbr-fonts-style display-1">
                             Hands-on Technology Leader</h1>
                         <h3 class="mbr-section-subtitle align-left mbr-light pb-3 mbr-fonts-style display-2">
-                            with 21+ years experience&nbsp;</h3>
-                        <p class="mbr-text align-left pb-3 mbr-fonts-style display-5">Thanks for visiting my website. I am a software professional with extensive experience in leading tech initiatives and teams related to web, mobile and big-data applications for industry leading companies. Feel free to explore my website and social profiles to know more about me.</p>
+                            with 22+ years of experience&nbsp;</h3>
+                        <p class="mbr-text align-left pb-3 mbr-fonts-style display-5">Thanks for visiting my website. I am a software professional with extensive experience in leading tech teams, related to web, big-data & GenAI applications for industry leading companies. Feel free to explore my website and social profiles to know more about me.</p>
                         <div class="mbr-section-btn align-left">
-                            <a class="btn btn-md btn-primary display-4" href="https://blog.gaurav-dhiman.com" target="_blank">MY BLOG</a>
+                            <a class="btn btn-md btn-primary display-4" href="https://gauravdhiman.hashnode.dev/" target="_blank">MY BLOG</a>
                             <a class="btn btn-md btn-black-outline display-4" href="assets/files/gaurav-dhiman-resume.pdf" target="_blank">RESUME</a>
                         </div>
                     </div>
@@ -167,7 +167,7 @@ const Home = () => (
                                     <div class="undefined"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" preserveAspectRatio="xMinYMin meet" version="1.1"><ellipse fill="none" stroke="#f2f2f2" stroke-width="8" cx="75" cy="75" rx="71" ry="71" /><path class="pie50" fill="none" stroke="url(#progress-bars3-b-svg-gradient)" stroke-width="8" d="M 75 4 A 71 71 0 0 1 75 146" /></svg></div></div>
                             </div>
                             <div class="mbr-crt-title pt-3">
-                                <h4 class="card-title py-2 mbr-fonts-style display-5">Web &amp; Cross Platform Mobile Apps</h4>
+                                <h4 class="card-title py-2 mbr-fonts-style display-5">Web Technologies</h4>
                             </div>
                         </div>
 
@@ -179,7 +179,7 @@ const Home = () => (
                             </div>
                             <div class="mbr-crt-title pt-3">
                                 <h4 class="card-title py-2 mbr-fonts-style display-5">
-                                    Big Data Apps</h4>
+                                    Big Data Technologies</h4>
                             </div>
                         </div>
 
@@ -196,12 +196,12 @@ const Home = () => (
 
                         <div class="card p-3 align-center">
                             <div class="wrap">
-                                <div class="pie_progress progress5" role="progressbar" aria-valuenow="22" data-goal="22">
-                                    <p class="pie_progress__number mbr-fonts-style display-5">22%</p>
-                                    <div class="undefined"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" preserveAspectRatio="xMinYMin meet" version="1.1"><ellipse fill="none" stroke="#f2f2f2" stroke-width="8" cx="75" cy="75" rx="71" ry="71" /><path class="pie22" fill="none" stroke="url(#progress-bars3-b-svg-gradient)" stroke-width="8" d="M 75 4 A 71 71 0 0 1 144.742 61.6959" /></svg></div></div>
+                                <div class="pie_progress progress5" role="progressbar" aria-valuenow="08" data-goal="08">
+                                    <p class="pie_progress__number mbr-fonts-style display-5">08%</p>
+                                    <div class="undefined"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" preserveAspectRatio="xMinYMin meet" version="1.1"><ellipse fill="none" stroke="#f2f2f2" stroke-width="8" cx="75" cy="75" rx="71" ry="71" /><path class="pie08" fill="none" stroke="url(#progress-bars3-b-svg-gradient)" stroke-width="8" d="M 75 4 A 71 71 0 0 1 144.742 61.6959" /></svg></div></div>
                             </div>
                             <div class="mbr-crt-title pt-3">
-                                <h4 class="card-title py-2 mbr-fonts-style display-5">Kernel Development</h4>
+                                <h4 class="card-title py-2 mbr-fonts-style display-5">GenAI / LLMs / Applied AI</h4>
                             </div>
                         </div>
                     </div>
@@ -224,13 +224,14 @@ const Home = () => (
                                             <h4 class="mbr-content-title mbr-bold mbr-fonts-style display-7">Technical skills</h4>
                                             <p class="mbr-content-text mbr-fonts-style display-7">- Understanding of broader technology landscape across Web, Mobile, Cloud, IoT, Big-Data and ML space.<br />
                                                 - Practioner of software development best practices like Agile &amp; iterative dev cycles, BDD, TDD, Code-Reviews (PRs), Automated CI/CD pipeline.<br />
+                                                - Hands on experience with prompt engineering, building RAGs & Agentic AI solutions using LLMs and libraries like LangChain, LangGraph, AutoGen, Ell-Ai, CrewAI etc.<br />
                                                 - Building solutions using event-driven microservices and cloud native architectures that are scalable using Docker and Kubernetes.<br />
                                                 - Extensive experience with big data ETL and analytics applications based on PySpark and Hadoop technologies.<br />
-                                                - Extensive experience with development and delivery of full-stack web and cross platform mobile applications.<br />
-                                                - Hands-on with development technologies like Python, SQL/NoSQL DBs, PySpark, Pandas Hadoop, Hive, Kafka, NodeJS, ReactJS, Redux, PHP (Hack), C/C++, Linux/Unix.<br />
+                                                - Extensive experience with development and delivery of full-stack web applications.<br />
+                                                - Hands-on with development technologies like Python, LangChain, SQL/NoSQL DBs, PySpark, Pandas, Hadoop, Hive, Kafka, Javascript, NodeJS, ReactJS, Redux, PHP (Hack), C/C++, Linux/Unix.<br />
                                                 - Hands on with testing frameworks like MochaJS, ChaiJS, SinonJS, Cypress, Behave (Cucumber), Pytest.<br />
                                                 - Well versed with tools like Git, JIRA, NPM, PIP, Jenkins, Containers (Dockers), Kubernetes.<br />
-                                                - Knowledge of Machine Learning (ML) landscape; Deep neural networks, Convolutional neural networks, Recurrent Neural networks, Re-enforcement learning, Keras, TesorFlow.</p>
+                                                - Theoretical knowledge of of deep neural networks.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -242,6 +243,8 @@ const Home = () => (
                                         <div class="card-text">
                                             <h4 class="mbr-content-title mbr-bold mbr-fonts-style display-7">Leadership skills</h4>
                                             <p class="mbr-content-text mbr-fonts-style display-7">- Keeping up to date with latest technology trends and innovations.<br />
+                                                - Up to date with GenAI trends and excited about multi-modal GenAI opportunities.<br />
+                                                - Advising / consulting clients on latest and greatest of technologies and possible use-cases.<br />
                                                 - Leading initiatives for technology transformation - from old tech stack to latest tech stacks.<br />
                                                 - Capturing business problems and leading teams to build and deliver customer focused technology solutions for the same.<br />
                                                 - Aligning teams on technical achitecture across enterprise or business units to achieve larger business objectives.<br />
@@ -270,14 +273,15 @@ const Home = () => (
                             <div class="col-xs-12 col-md-6 align-right">
                                 <div class="timeline-text-content">
                                     <h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-5">
-                                        Senior Software Engineer
+                                        Staff Software Engineer
                                     </h4>
                                     <p class="mbr-timeline-text mbr-fonts-style display-7">
                                         <strong>@ <a href="https://www.meta.com" target="_blank">Meta</a> (originally <a href="https://www.facebook.com" target="_blank">Facebook.com</a>)</strong>
                                         <br />
                                         - Lead design and develop full-stack software products for Meta's Sales & Ads group. Lead and represent team in multi-team initiatives.<br />
+                                        - Led development of Sales AI, a Llama3.1 (LLM) based Agentic AI chat app to self-serve Meta's sales workforce.
                                         - Closely work with Cross-Functional (XFN) teams & technically lead business requirement discussions. Provide relevant suggestions.<br />
-                                        - Design large scale, highly-available, low-latency & fault-tolerant distributed systems. Create system design documentations.<br />
+                                        - Design large scale, highly-available, low-latency & fault-tolerant distributed systems. Create system design and technical documentations.<br />
                                         - Help team break down business requirements into actionable tasks and organize them.<br />
                                         - Write code and perform code reviews to ensure high code quality. Mentor & unblock engineers when required.
                                     </p>
@@ -758,7 +762,7 @@ const Home = () => (
                     <div class="media-container-row content text-white">
                         <div class="col-12 col-md-3">
                             <div class="media-wrap">
-                                <a href="https://gaurav-dhiman.com/">
+                                <a href="https://gauravdhiman.github.io">
                                     {/* <img src="assets/images/logo2.png" alt="Mobirise" /> */}
                                 </a>
                             </div>
